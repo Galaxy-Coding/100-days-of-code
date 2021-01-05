@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# 100-days-of-code
+My 100 days old code repository
 
-You can use the [editor on GitHub](https://github.com/Galaxy-Coding/100-days-of-code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Day 1
+| Date    | 4/1/2020 |
+|---------|----------|
+| Weekday | Monday   |
+- I worked on my JSON API that scrapes data from MDN
+- I contributed to a discord bot and added a caniuse command 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
 
-### Markdown
+- https://github.com/nhcarrigan/Becca-Lyria/pull/450
+- https://github.com/Galaxy-Coding/my-api
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Day 2
+| Date    | 5/1/2020 |
+|---------|----------|
+| Weekday | Tuesday  |
+- I added an endpoint that gets search results from mdn: 
+- Another endpoint gets info about the first search result: 
 
-```markdown
-Syntax highlighted code block
+### Links
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Galaxy-Coding/100-days-of-code/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- https://github.com/Galaxy-Coding/my-api/commit/bd8e5e4971dbb9c72eaa02dd577f339724a7cead
+- https://my-api.galaxycoding.repl.co/mdn-search?q=css
+- https://my-api.galaxycoding.repl.co/mdn?q=css
